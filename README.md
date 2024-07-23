@@ -13,13 +13,13 @@
 
 - 📝 I regularly write articles on [x](x)
 
-- 💬 Ask me about **x**
+- 💬 Ask me about **Android,Java**
 
-- 📫 How to reach me **x**
+- 📫 How to reach me **maduralakshan08@gmail.com**
 
 - 📄 Know about my experiences [x](x)
 
-- ⚡ Fun fact **x**
+- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
