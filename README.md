@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm madura024</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-- 🔭 I’m currently working on [-]
+- 🔭 I’m currently working on -
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on [with Anyone]
+- 👯 I’m looking to collaborate on **with Anyone**
 
-- 🤝 I’m looking for help with [To those who want my help
+- 🤝 I’m looking for help with **To those who want my help**
 
-- 👨‍💻 All of my projects are available at [GitHub](x)
+- 👨‍💻 All of my projects are available at **GitHub**
 
 - 💬 Ask me about **Android,Java**
 
 - 📫 How to reach me **maduralakshan08@gmail.com**
 
-- 📄 Know about my experiences [Check out my Projects](x)
+- 📄 Know about my experiences **Check out my Projects**
 
 - ⚡ Fun fact **I am Funny**
 
