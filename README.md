@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on -
 - 🌱 I’m currently learning  - **React Native**
 
-- 👯 I’m looking to collaborate on -  **with Anyone**
+- 👯 I’m looking to collaborate on -  **With Anyone**
 
 - 🤝 I’m looking for help with -  **To those who want my help**
 
