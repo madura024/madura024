@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm madura024</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-- 🔭 I’m currently working on [zdsdds](https://www.google.com/search?q=kubernetes&oq=kuberne&gs_lcrp=EgZjaHJvbWUqBwgBEAAYjwIyBggAEEUYOTIHCAEQABiPAtIBCjI3NTYwajBqMTWoAgmwAgE&sourceid=chrome&ie=UTF-8)
+- 🔭 I’m currently working on [-](https://www.google.com/search?q=kubernetes&oq=kuberne&gs_lcrp=EgZjaHJvbWUqBwgBEAAYjwIyBggAEEUYOTIHCAEQABiPAtIBCjI3NTYwajBqMTWoAgmwAgE&sourceid=chrome&ie=UTF-8)
 
-- 🌱 I’m currently learning **x**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on [x](https://www.google.com/search?q=kubernetes&oq=kuberne&gs_lcrp=EgZjaHJvbWUqBwgBEAAYjwIyBggAEEUYOTIHCAEQABiPAtIBCjI3NTYwajBqMTWoAgmwAgE&sourceid=chrome&ie=UTF-8)
 
