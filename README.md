@@ -5,19 +5,17 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on [with Anyou](https://www.google.com/search?q=kubernetes&oq=kuberne&gs_lcrp=EgZjaHJvbWUqBwgBEAAYjwIyBggAEEUYOTIHCAEQABiPAtIBCjI3NTYwajBqMTWoAgmwAgE&sourceid=chrome&ie=UTF-8)
+- 👯 I’m looking to collaborate on [with Anyone](https://www.google.com/search?q=kubernetes&oq=kuberne&gs_lcrp=EgZjaHJvbWUqBwgBEAAYjwIyBggAEEUYOTIHCAEQABiPAtIBCjI3NTYwajBqMTWoAgmwAgE&sourceid=chrome&ie=UTF-8)
 
 - 🤝 I’m looking for help with [To those who want my help](https://www.google.com/search?q=kubernetes&oq=kuberne&gs_lcrp=EgZjaHJvbWUqBwgBEAAYjwIyBggAEEUYOTIHCAEQABiPAtIBCjI3NTYwajBqMTWoAgmwAgE&sourceid=chrome&ie=UTF-8)
 
 - 👨‍💻 All of my projects are available at [GitHub](x)
 
-- 📝 I regularly write articles on [x](x)
-
 - 💬 Ask me about **Android,Java**
 
 - 📫 How to reach me **maduralakshan08@gmail.com**
 
-- 📄 Know about my experiences [x](x)
+- 📄 Know about my experiences [Check out my Projects](x)
 
 - ⚡ Fun fact **I am Funny**
 
