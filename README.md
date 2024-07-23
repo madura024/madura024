@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on [x](https://www.google.com/search?q=kubernetes&oq=kuberne&gs_lcrp=EgZjaHJvbWUqBwgBEAAYjwIyBggAEEUYOTIHCAEQABiPAtIBCjI3NTYwajBqMTWoAgmwAgE&sourceid=chrome&ie=UTF-8)
+- 👯 I’m looking to collaborate on [with Anyou](https://www.google.com/search?q=kubernetes&oq=kuberne&gs_lcrp=EgZjaHJvbWUqBwgBEAAYjwIyBggAEEUYOTIHCAEQABiPAtIBCjI3NTYwajBqMTWoAgmwAgE&sourceid=chrome&ie=UTF-8)
 
-- 🤝 I’m looking for help with [x](https://www.google.com/search?q=kubernetes&oq=kuberne&gs_lcrp=EgZjaHJvbWUqBwgBEAAYjwIyBggAEEUYOTIHCAEQABiPAtIBCjI3NTYwajBqMTWoAgmwAgE&sourceid=chrome&ie=UTF-8)
+- 🤝 I’m looking for help with [To those who want my help](https://www.google.com/search?q=kubernetes&oq=kuberne&gs_lcrp=EgZjaHJvbWUqBwgBEAAYjwIyBggAEEUYOTIHCAEQABiPAtIBCjI3NTYwajBqMTWoAgmwAgE&sourceid=chrome&ie=UTF-8)
 
-- 👨‍💻 All of my projects are available at [x](x)
+- 👨‍💻 All of my projects are available at [GitHub](x)
 
 - 📝 I regularly write articles on [x](x)
 
